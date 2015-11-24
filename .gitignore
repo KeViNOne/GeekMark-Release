@@ -1,0 +1,7 @@
+*MACOSX*
+.DS_Store
+
+.vscode
+.bin
+.cache
+*.log
